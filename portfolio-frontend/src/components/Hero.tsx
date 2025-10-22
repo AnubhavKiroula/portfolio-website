@@ -146,7 +146,7 @@ const Hero: React.FC = () => {
               View My Work
             </motion.button>
             <motion.a
-              href="http://localhost:5000/api/generate-resume"
+              href="https://anubhav-kiroula-portfolio-backend.onrender.com/api/generate-resume"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 border-2 border-primary text-primary rounded-lg text-lg font-semibold flex items-center justify-center gap-3 min-w-[200px] hover:bg-primary hover:text-white transition-all duration-300"
